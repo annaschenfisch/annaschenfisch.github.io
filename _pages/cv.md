@@ -6,6 +6,6 @@ redirect_from:
   - /resume
 ---
 
-View CV pdf [here](/files/cv). Last updated
+View CV pdf [here](/files/cv.pdf). Last updated
 September 2022.
 
