@@ -1,12 +1,11 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-[View pdf]
-[View pdf]: "/files/cv.pdf"
+View CV pdf [here](http://annaschenfisch.github.io/files/cv). Last updated
+September 2022.
+
