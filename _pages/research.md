@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-##Publications
+## Publications
 
-[Reconstructing Embedded Graphs from Persistence Diagrams](https://www.sciencedirect.com/science/article/pii/S0925772120300523) \ 
+[Reconstructing Embedded Graphs from Persistence Diagrams](https://www.sciencedirect.com/science/article/pii/S0925772120300523) \
 Computational Geometry, Theory and Applications. October 2020.
 
 [Statistical Analysis of Contingency
@@ -19,6 +19,6 @@ Graphs](https://www.sciencedirect.com/science/article/pii/S0012365X17303266) \
 Journal of Discrete Mathematics, Volume 341, Issue 2. February 2018. Pages
 492-496.
 
-##Unpublished Research
+## Unpublished Research
 
 
