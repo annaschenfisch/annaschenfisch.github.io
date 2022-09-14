@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a topologist and geometer, combining elements of pure math with
-elements of computer scientist. My current research interests are in the algebraic
+elements of computer science. My current research interests are in the algebraic
 K-theory of persistence modules and shape representation using directional
 topological descriptors. 
 
