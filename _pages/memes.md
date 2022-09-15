@@ -1,5 +1,5 @@
 ---
-title: "MemesTest"
+title: "Memes"
 permalink: /memes/
 author_profile: false
 ---
