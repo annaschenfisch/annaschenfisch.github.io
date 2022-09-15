@@ -1,6 +1,6 @@
 ---
 title: "Discussion"
-excerpt: "<br/><img src='/images/catmeme.pdf'>"
+excerpt: "<br/><img src='/images/catmeme'>"
 collection: portfolio
 ---
 There are many problems in comutational geometry that involve putting things
