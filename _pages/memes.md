@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-permalink: /teaching/
+title: "Memes"
+permalink: /memes/
 author_profile: false
 ---
 
