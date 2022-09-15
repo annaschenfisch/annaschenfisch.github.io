@@ -3,5 +3,9 @@ title: "Discussion"
 excerpt: "<br/><img src='/images/catmeme.jpg'>"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+There are many problems in comutational geometry that involve putting things
+optimally in boxes.
+[Here](https://www.sciencedirect.com/science/article/pii/S0377221702001236) is a
+nice survey of packing problems in two dimensions.
+[Here](https://www.hindawi.com/journals/aor/2009/150624/) is another survey
+discussing the packing of spheres.
