@@ -18,7 +18,7 @@ Tables](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1571848) \
 Joint with Brittany Fasy. \
 The American Statistician, Volume 73, Issue 2. April 3, 2019. Page 634.
 
-[Turan Numbers of Vertex-Disjoint Cliques in r-Partite
+[Turán Numbers of Vertex-Disjoint Cliques in r-Partite
 Graphs](https://www.sciencedirect.com/science/article/pii/S0012365X17303266) \
 Joint with Jessica De Silva, Kristin Heysse, Adam Kapilow, and
 Michael Young. \
