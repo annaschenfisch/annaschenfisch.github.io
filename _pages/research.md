@@ -28,7 +28,7 @@ Journal of Discrete Mathematics, Volume 341, Issue 2. February 2018. Pages
 ## Unpublished Research / Conference Proceedings
 
 [Efficient Graph Reconstruction and Representation Using Augmented Persistence
-Diagrams](https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022\_paper\_49.pdf) \
+Diagrams](https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_49.pdf) \
 Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
 Canadian Conference on Computational Geometry, 2022.
 
