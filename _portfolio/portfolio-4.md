@@ -1,5 +1,5 @@
 ---
-excerpt: "<br/><img src='/images/cowedge.jpg'>"
+excerpt: "<br/><img src='/images/cowedge.png'>"
 title: "discussion"
 collection: portfolio
 ---
