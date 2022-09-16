@@ -1,5 +1,6 @@
 ---
-excerpt: "<br/><img src='/images/smooth.jpg'>"
+excerpt: "If you'd like to read more about the social or mathematical meaning
+behind an image, click the discussion link above the image <br/><img src='/images/smooth.jpg'>"
 title: "discussion"
 collection: portfolio
 ---
