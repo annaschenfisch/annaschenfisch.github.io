@@ -14,7 +14,7 @@ Williams. \
 Computational Geometry, Theory and Applications. October 2020.
 
 [Statistical Analysis of Contingency
-Tables](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1571848) \
+Tables (book review)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1571848) \
 Joint with Brittany Fasy. \
 The American Statistician, Volume 73, Issue 2. April 3, 2019. Page 634.
 
