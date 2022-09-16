@@ -13,6 +13,6 @@ $\emptyset = F_0 \subseteq F_1 \ldots \subseteq F$. We can apply the homology
 functor to this filtration, with the inclusion maps of the filtration inducing
 maps on the level of homology. Any homology class that is not in the kernel of
 the composition of many maps (how many is subjective) is considered to be a
-persistent feature. Thus, ``nevertheless, she remained a representative of her
-homology class for many steps of the filtration'' means, ``nevertheless, she
+persistent feature. Thus, "nevertheless, she remained a representative of her
+homology class for many steps of the filtration'' means, "nevertheless, she
 persisted.'' 
