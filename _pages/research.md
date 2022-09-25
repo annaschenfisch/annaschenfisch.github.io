@@ -5,7 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
-## Publications
+## Journal Publications
+
+[Zig-Zag Modules: Cosheaves and
+$K$-Theory](https://arxiv.org/abs/2110.04591) \
+Joint with Ryan Grady. \
+To appear in Homology, Homotopy and Applications.
 
 [Reconstructing Embedded Graphs from Persistence Diagrams](https://www.sciencedirect.com/science/article/pii/S0925772120300523) \
 Joint with Robin Lynne Belton, Brittany Terese Fasy, Rostik Mertz, Samuel Micka,
@@ -25,17 +30,15 @@ Michael Young. \
 Journal of Discrete Mathematics, Volume 341, Issue 2. February 2018. Pages
 492-496.
 
-## Unpublished Research / Conference Proceedings
+## Conference Publications 
 
 [Efficient Graph Reconstruction and Representation Using Augmented Persistence
 Diagrams](https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_49.pdf) \
 Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
 Canadian Conference on Computational Geometry, 2022.
 
-[Zig-Zag Modules: Cosheaves and
-$K$-Theory](https://arxiv.org/abs/2110.04591) \
-Joint with Ryan Grady. \
-Under review.
+
+## Conference Contributions or Ongoing Work
 
 [Catching Polygons](https://arxiv.org/abs/2201.01286) \
 Joint with Bradley McCoy and Eli Quist. \
