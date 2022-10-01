@@ -17,4 +17,4 @@ the set of all open sets $U \subseteq V$ and smooth functions $f: U \to
 that also contains $p$ such that the images of $s$ and $f$ agree when restricted
 to this $W$. 
 
-This is sometimes notated $\text{germ}_s$, so the text says, ''don't spread $\text{germ}_s$.''
+This is sometimes notated $\text{germ}_s(p)$, so the text says, ''don't spread $\text{germ}_s(p)$.''
