@@ -3,7 +3,7 @@ excerpt: "<br/><img src='/images/germs.png'>"
 title: "discussion"
 collection: portfolio
 ---
-A [germ](https://en.wikipedia.org/wiki/Germ_(mathematics) is a mathematical
+A [germ](https://en.wikipedia.org/wiki/Germ_(mathematics)) is a mathematical
 concept that gives us a way to talk about when two functions are locally the
 same. 
 
