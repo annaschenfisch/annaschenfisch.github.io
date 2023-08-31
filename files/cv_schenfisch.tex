@@ -1,0 +1,67 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
+\usepackage{hyperref} % Required for adding links	and customizing them
+\hypersetup{colorlinks, breaklinks, urlcolor=black, linkcolor=black} % Set link colors
+\usepackage{enumitem}
+\setlist{noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt}
+
+\pagestyle{plain}
+
+\name{\LARGE{Anna Schenfisch}} % Your name
+\address{+1(307)~333 3836 (US) and +31 6 16974149 (NL)}
+\address{\href{mailto:a.k.schenfisch@tue.nl}{a.k.schenfisch@tue.nl}} % Your
+%phone number and email
+\address{\href{https://annaschenfisch.github.io/}{annaschenfisch.github.io/}}
+
+\begin{document}
+\input{sections/appointments}
+
+\input{sections/education}
+
+\input{sections/honors}
+
+
+\textbf{PUBLICATIONS (with hyperlinks)}
+\vspace{.3cm}
+\hrule
+\input{sections/publications}
+
+\input{sections/ongoing}
+
+\input{sections/talks}
+
+\input{sections/othermath}
+
+\input{sections/teaching}
+
+\input{sections/mentoring}
+
+\input{sections/outreach}
+
+\input{sections/professionaldevelopment}
+
+\end{document}
+
