@@ -6,6 +6,6 @@ redirect_from:
   - /resume
 ---
 
-View CV pdf [here](../../files/cv_schenfisch.pdf1). Last updated
+View CV pdf [here](../../files/cv_schenfisch1.pdf). Last updated
 August 2023.
 
