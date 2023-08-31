@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Journal Publications
+[Regularity via Links and Stein Factorizations](https://link.springer.com/article/10.1007/s13366-023-00713-y) \
+Joint with Ryan Grady. \
+Beiträge zur Algebra und Geometrie / Contributions to Algebra and Geometry.
+August 2023.
 
 [Zig-Zag Modules: Cosheaves and
 $K$-Theory](https://arxiv.org/abs/2110.04591) \
@@ -44,10 +48,6 @@ Canadian Conference on Computational Geometry, 2022.
 Joint with Bradley McCoy and Eli Quist. \
 Fall Workshop on Computational Geometry, 2021.
 
-[Natural Stratifications of Reeb Spaces and Higher Morse
-Functions](https://arxiv.org/abs/2011.08404) \
-Joint with Ryan Grady. \
-Under review.
 
 [A Faithful Discretization of the Augmented Persistent Homology
 Transform](https://arxiv.org/abs/1912.12759) \
