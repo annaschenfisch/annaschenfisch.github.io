@@ -7,5 +7,5 @@ redirect_from:
 ---
 
 View CV pdf [here](../../files/cv_schenfisch1.pdf). Last updated
-August 2023.
+November 2023.
 
