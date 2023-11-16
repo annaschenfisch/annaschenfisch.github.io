@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 ## Journal Publications
+[Zig-Zag Modules: Cosheaves and
+$K$-Theory](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0002/a011/index.php) \
+Joint with Ryan Grady. \
+Homology, Homotopy and Applications. Volume 25, Number 2. Pages 243-274. November 2023.
+
 [Regularity via Links and Stein Factorizations](https://link.springer.com/article/10.1007/s13366-023-00713-y) \
 Joint with Ryan Grady. \
 Beiträge zur Algebra und Geometrie / Contributions to Algebra and Geometry.
 August 2023.
-
-[Zig-Zag Modules: Cosheaves and
-$K$-Theory](https://arxiv.org/abs/2110.04591) \
-Joint with Ryan Grady. \
-To appear in Homology, Homotopy and Applications.
 
 [Reconstructing Embedded Graphs from Persistence Diagrams](https://www.sciencedirect.com/science/article/pii/S0925772120300523) \
 Joint with Robin Lynne Belton, Brittany Terese Fasy, Rostik Mertz, Samuel Micka,
