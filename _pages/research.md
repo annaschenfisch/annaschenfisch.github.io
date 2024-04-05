@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ## Journal Publications
+[$K$-Theory of multiparameter persistence modules:
+Additivity](https://www.ams.org/journals/bproc/2024-11-06/S2330-1511-2024-00208-7/)
+\
+Joint with Ryan Grady. \
+Proceedings of the American Mathematical Society, Series B. Volume 11. Pages 63-74. March 2024.
+
 [Zig-Zag Modules: Cosheaves and
 $K$-Theory](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0002/a011/index.php) \
 Joint with Ryan Grady. \
@@ -35,10 +41,14 @@ Journal of Discrete Mathematics, Volume 341, Issue 2. February 2018. Pages
 492-496.
 
 ## Conference Publications 
+[Lower Bounding Minimal Faithful Sets of Verbose Persistence
+Diagrams](https://eurocg2024.math.uoi.gr/data/uploads/paper_28.pdf)
+\ Joint with Brittany Fasy and David Millman. \
+European Conference on Computational Geometry, 2024.
 
 [Efficient Graph Reconstruction and Representation Using Augmented Persistence
-Diagrams](https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_49.pdf) \
-Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
+Diagrams](https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_49.pdf)
+\ Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
 Canadian Conference on Computational Geometry, 2022.
 
 
