@@ -42,21 +42,21 @@ Journal of Discrete Mathematics, Volume 341, Issue 2. February 2018. Pages
 
 ## Conference Publications 
 [Efficient Graph Reconstruction and Representation Using Augmented Persistence
-Diagrams](https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_49.pdf)
-\ Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
+Diagrams](https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_49.pdf)\ 
+Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
 Canadian Conference on Computational Geometry, 2022.
 
 
 ## Conference Contributions or Ongoing Work
 [Lower Bounding Minimal Faithful Sets of Verbose Persistence
-Diagrams](https://eurocg2024.math.uoi.gr/data/uploads/paper_28.pdf)
-\ Joint with Brittany Fasy and David Millman. \
+Diagrams](https://eurocg2024.math.uoi.gr/data/uploads/paper_28.pdf)\ 
+Joint with Brittany Fasy and David Millman. \
 European Conference on Computational Geometry, 2024.
 
 [Outerplanar Graphs with Positive Lin-Lu-Yau
 Curvature](https://arxiv.org/pdf/2403.04110.pdf) \ Joint with George Brooks,
-Fadekemi Osaye, Zhiyu Wang, and Jing Yu. \ European Conference on Computational
-Geometry, 2024.
+Fadekemi Osaye, Zhiyu Wang, and Jing Yu. \ 
+To be submitted.
 
 [Catching Polygons](https://arxiv.org/abs/2201.01286) \
 Joint with Bradley McCoy and Eli Quist. \
