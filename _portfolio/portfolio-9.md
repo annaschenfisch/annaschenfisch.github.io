@@ -12,11 +12,11 @@ Since the initial appearance of Fréchet distance, mathematicians have been
 investigating variants, which often come with their own colorful stories of
 walking and leashes. This includes (and is not limited to) 
 <ul>
-   <li>
+   <li> pairs of frogs
       <a href="https://www.researchgate.net/profile/Thomas-Eiter-2/publication/228723178_Computing_Discrete_Frechet_Distance/links/5714d93908aebda86c0d1a7b/Computing-Discrete-Frechet-Distance.pdf" target="_blank">pairs of frogs</a>
     </li>
   <li>
-    <a href="https://epubs.siam.org/doi/abs/10.1137/120865112" target="_blank">jaywalking frogs</a>
+    <a href="https://epubs.siam.org/doi/abs/10.1137/120865112" target="_blank">jaywalking dogs</a>
     </li>
   <li>
     <a href="https://link.springer.com/article/10.1007/s00454-017-9878-7"
