@@ -12,11 +12,26 @@ Since the initial appearance of Fréchet distance, mathematicians have been
 investigating variants, which often come with their own colorful stories of
 walking and leashes. This includes (and is not limited to) 
 <ul>
-  <li>pairs of frogs (the typical metaphor for [discrete Fréchet
-  distance](https://www.researchgate.net/profile/Thomas-Eiter-2/publication/228723178_Computing_Discrete_Frechet_Distance/links/5714d93908aebda86c0d1a7b/Computing-Discrete-Frechet-Distance.pdf)</li>
-  <li>[jaywalking dogs](https://epubs.siam.org/doi/abs/10.1137/120865112)</li>
-  <li>[groups of Soviets and dogs](https://link.springer.com/article/10.1007/s00454-017-9878-7)</li>
-  <li>[people and dogs in the woods](https://www.sciencedirect.com/science/article/pii/S0925772109000637)</li>
-  <li>[frogs and dogs climbing rock walls](https://arxiv.org/abs/1906.08141)</li>
-  <li>[hikers and barking dogs behind fences](https://arxiv.org/abs/2402.13159)</li>
+   <li>
+      <a href="https://www.researchgate.net/profile/Thomas-Eiter-2/publication/228723178_Computing_Discrete_Frechet_Distance/links/5714d93908aebda86c0d1a7b/Computing-Discrete-Frechet-Distance.pdf" target="_blank">pairs of frogs</a>
+    </li>
+  <li>
+    <a href="https://epubs.siam.org/doi/abs/10.1137/120865112" target="_blank">jaywalking frogs</a>
+    </li>
+  <li>
+    <a href="https://link.springer.com/article/10.1007/s00454-017-9878-7"
+    target="_blank">groups of Soviets and dogs</a>
+    </li>
+  <li>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0925772109000637"
+    target="_blank">people and dogs in the woods</a>
+    </li>
+  <li>
+    <a href="https://arxiv.org/abs/1906.08141"
+    target="_blank">frogs and dogs climbing rock walls</a>
+    </li>
+  <li>
+    <a href="https://arxiv.org/abs/2402.13159"
+    target="_blank">hikers and barking dogs behind fences</a>
+    </li>
 </ul>
