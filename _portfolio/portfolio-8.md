@@ -1,10 +1,18 @@
 ---
-excerpt: "<br/><img src='/images/handshake.png'>"
+excerpt: "<br/><img src='/images/persisted.jpg'>"
 title: "discussion"
 collection: portfolio
---- 
-The famous [handshaking lemma](https://dev.to/adnauseum/handshaking-lemma-degree-sum-formula-419a) (also
-known as the \emph{degree sum formula}) states that, in a simple graph, the sum
-of all degrees of all vertices in a graph is twice the number of edges. That is,
-if you try to count edges by going through the vertices and writing down how
-many edges are attached to each vertex, you'll end up counting each edge twice.
+---
+This makes reference to the phrase, "nevertheless, she persisted." Find out more
+about the origins of this phrase
+[here](https://knowyourmeme.com/memes/shepersisted).
+
+Persistence is a fundamental concept in topological data analysis.
+Suppose we have some topological space $F$, and a filtration of nested subspaces
+$\emptyset = F_0 \subseteq F_1 \ldots \subseteq F$. We can apply the homology
+functor to this filtration, with the inclusion maps of the filtration inducing
+maps on the level of homology. Any homology class that is not in the kernel of
+the composition of many maps (how many is subjective) is considered to be a
+persistent feature. Thus, "nevertheless, she remained a representative of her
+homology class for many steps of the filtration'' means, "nevertheless, she
+persisted.'' 
