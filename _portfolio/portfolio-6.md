@@ -1,20 +1,18 @@
 ---
-excerpt: "<br/><img src='/images/germs.png'>"
+excerpt: "<br/><img src='/images/persisted.jpg'>"
 title: "discussion"
 collection: portfolio
 ---
-A [germ](https://en.wikipedia.org/wiki/Germ_(mathematics)) is a mathematical
-concept that gives us a way to talk about when two functions are locally the
-same. 
+This makes reference to the phrase, "nevertheless, she persisted." Find out more
+about the origins of this phrase
+[here](https://knowyourmeme.com/memes/shepersisted).
 
-Roughly speaking, the germ of a function $s$ is the set of all other nearby functions
-that ''look like'' $s$ when you zoom in (along with the information of where
-these nearby functions are defined).
-
-More formally, the germ of a function $s: V \to \mathbb{R}$ at a point $p \in V$ is
-the set of all open sets $U \subseteq V$ and smooth functions $f: U \to
-\mathbb{R}$ such that we can find an open set $W$ contained in both $V$ and $U$
-that also contains $p$ such that the images of $s$ and $f$ agree when restricted
-to this $W$. 
-
-This is sometimes notated $\text{germ}_s(p)$, so the text says, ''don't spread $\text{germ}_s(p)$.''
+Persistence is a fundamental concept in topological data analysis.
+Suppose we have some topological space $F$, and a filtration of nested subspaces
+$\emptyset = F_0 \subseteq F_1 \ldots \subseteq F$. We can apply the homology
+functor to this filtration, with the inclusion maps of the filtration inducing
+maps on the level of homology. Any homology class that is not in the kernel of
+the composition of many maps (how many is subjective) is considered to be a
+persistent feature. Thus, "nevertheless, she remained a representative of her
+homology class for many steps of the filtration'' means, "nevertheless, she
+persisted.'' 
