@@ -3,6 +3,12 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: false
 ---
+At Eindhoven University of Technology
+## 2IT80: Introduction to Discrete Structures
+
+ * Anticipated Quarter 2, 2024
+
+At Montana State University
 ## CSCI246: Discrete Structures
 Textbook: Discrete Mathematics with Applications, 5th Edition - Susanna S. Epp
 
