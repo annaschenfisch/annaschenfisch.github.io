@@ -5,8 +5,9 @@ author_profile: false
 ---
 ## Eindhoven University of Technology
 ### 2IT80: Introduction to Discrete Structures
+Textbook: Invitation to Discrete Mathematics, 2nd edition - Jiří Matoušek and Jaroslav Nešetřil
 
- * Anticipated Quarter 2, 2024
+ * Quarter 2, 2024 (lecturer, around 300 studnets enrolled)
 
 ## Montana State University
 ### CSCI246: Discrete Structures
