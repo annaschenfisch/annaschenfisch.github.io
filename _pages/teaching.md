@@ -7,7 +7,7 @@ author_profile: false
 ### 2IT80: Introduction to Discrete Structures
 Textbook: Invitation to Discrete Mathematics, 2nd edition - Jiří Matoušek and Jaroslav Nešetřil
 
- * Quarter 2, 2024 (lecturer, around 300 studnets enrolled)
+ * Quarter 2, 2024 (lecturer, around 300 students enrolled)
 
 ## Montana State University
 ### CSCI246: Discrete Structures
