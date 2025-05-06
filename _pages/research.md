@@ -51,6 +51,7 @@ Joint with Tim Ophelders.
 
 [An Order for Higher-Dimensional Simplex Sweeps]() \
 Joint with Tim Ophelders. 
+European Conference on Computational Geometry, 2025.
 
 [Lower Bounding Minimal Faithful Sets of Verbose Persistence Diagrams](https://eurocg2024.math.uoi.gr/data/uploads/paper_28.pdf) \
 Joint with Brittany Fasy and David Millman. \
