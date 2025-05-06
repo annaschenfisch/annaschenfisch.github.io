@@ -45,14 +45,20 @@ Journal of Discrete Mathematics, Volume 341, Issue 2. February 2018. Pages
 Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
 Canadian Conference on Computational Geometry, 2022.
 
-## Conference Contributions or Ongoing Work
+## Preprints or Conference Contributions
+[Sweeping Orders for Simplicial Complex Reconstruction](https://arxiv.org/pdf/2501.01901) \
+Joint with Tim Ophelders. 
+
+[An Order for Higher-Dimensional Simplex Sweeps]() \
+Joint with Tim Ophelders. 
+
 [Lower Bounding Minimal Faithful Sets of Verbose Persistence Diagrams](https://eurocg2024.math.uoi.gr/data/uploads/paper_28.pdf) \
 Joint with Brittany Fasy and David Millman. \
 European Conference on Computational Geometry, 2024.
 
 [Outerplanar Graphs with Positive Lin-Lu-Yau Curvature](https://arxiv.org/pdf/2403.04110.pdf) \
 Joint with George Brooks, Fadekemi Osaye, Zhiyu Wang, and Jing Yu. \
-To be submitted.
+Under review.
 
 [Catching Polygons](https://arxiv.org/abs/2201.01286) \
 Joint with Bradley McCoy and Eli Quist. \
@@ -62,7 +68,7 @@ Fall Workshop on Computational Geometry, 2021.
 [A Faithful Discretization of the Augmented Persistent Homology
 Transform](https://arxiv.org/abs/1912.12759) \
 Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
-To be submitted.
+Under review.
 
 [Challenges in Reconstructing Shapes from Euler Characteristic
 Curves](https://arxiv.org/abs/1811.11337) \
