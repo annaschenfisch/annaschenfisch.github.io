@@ -45,6 +45,10 @@ Journal of Discrete Mathematics, Volume 341, Issue 2. February 2018. Pages
 Joint with Tim Ophelders, Willem Sonke, and Bettina Speckmann. \
 Symposium on Computational Geometry, 2025.
 
+[How Small Can Faithful Sets Be? Ordering Topological Descriptors](https://cosc.brocku.ca/~rnishat/CCCG_2024_proceedings.pdf) \
+Joint with Brittany Fasy and David Millman. \
+Canadian Conference on Computational Geometry, 2024.
+
 [Efficient Graph Reconstruction and Representation Using Augmented Persistence Diagrams](https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_49.pdf) \
 Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
 Canadian Conference on Computational Geometry, 2022.
