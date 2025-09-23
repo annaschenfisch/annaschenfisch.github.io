@@ -36,14 +36,14 @@ Computational Geometry, Theory and Applications. October 2020.
 [Statistical Analysis of Contingency
 Tables (book review)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1571848) \
 Joint with Brittany Fasy. \
-The American Statistician, Volume 73, Issue 2. April 3, 2019. Page 634.
+The American Statistician, Volume 73, Issue 2. Page 634. April 3, 2019. 
 
 [Turán Numbers of Vertex-Disjoint Cliques in r-Partite
 Graphs](https://www.sciencedirect.com/science/article/pii/S0012365X17303266) \
 Joint with Jessica De Silva, Kristin Heysse, Adam Kapilow, and
 Michael Young. \
-Journal of Discrete Mathematics, Volume 341, Issue 2. February 2018. Pages
-492-496.
+Journal of Discrete Mathematics, Volume 341, Issue 2. Pages
+492-496. February 2018.
 
 ## Conference Publications 
 [Computing Geomorphologically Salient Networks via Discrete Morse Theory](https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.70/LIPIcs.SoCG.2025.70.pdf) \
