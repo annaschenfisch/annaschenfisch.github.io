@@ -6,6 +6,11 @@ author_profile: false
 ---
 
 ## Journal Publications
+[Outerplanar Graphs with Positive Lin-Lu-Yau Curvature](https://link.intlpress.com/JDetail/1970159978082324481) \
+Joint with George Brooks, Fadekemi Osaye, Zhiyu Wang, and Jing Yu. \
+Journal of Combinatorics, Volume 16, Number 4. Pages 465-480. September 2025. 
+
+
 [$K$-Theory of multiparameter persistence modules:
 Additivity](https://www.ams.org/journals/bproc/2024-11-06/S2330-1511-2024-00208-7/)
 \
@@ -65,9 +70,6 @@ European Conference on Computational Geometry, 2025.
 Joint with Brittany Fasy and David Millman. \
 European Conference on Computational Geometry, 2024.
 
-[Outerplanar Graphs with Positive Lin-Lu-Yau Curvature](https://arxiv.org/pdf/2403.04110.pdf) \
-Joint with George Brooks, Fadekemi Osaye, Zhiyu Wang, and Jing Yu. \
-Under review.
 
 [Catching Polygons](https://arxiv.org/abs/2201.01286) \
 Joint with Bradley McCoy and Eli Quist. \
