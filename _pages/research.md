@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 ## Journal Publications
-[Outerplanar Graphs with Positive Lin-Lu-Yau Curvature](https://link.intlpress.com/JDetail/1970159978082324481) \
+[Outerplanar Graphs with Positive Lin-Lu-Yau Curvature](../../files/outerplanar.pdf) \
 Joint with George Brooks, Fadekemi Osaye, Zhiyu Wang, and Jing Yu. \
 Journal of Combinatorics, Volume 16, Number 4. Pages 465-480. September 2025. 
 
