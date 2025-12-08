@@ -6,6 +6,10 @@ author_profile: false
 ---
 
 ## Journal Publications
+[A Faithful Discretization of Verbose Directional Transforms](https://link.springer.com/article/10.1007/s00454-025-00791-w) \
+Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
+Discrete and Computational Geometry, Pages 1-46. November 2025.
+
 [Outerplanar Graphs with Positive Lin-Lu-Yau Curvature](../../files/outerplanar.pdf) \
 Joint with George Brooks, Fadekemi Osaye, Zhiyu Wang, and Jing Yu. \
 Journal of Combinatorics, Volume 16, Number 4. Pages 465-480. September 2025. 
@@ -70,16 +74,11 @@ European Conference on Computational Geometry, 2025.
 Joint with Brittany Fasy and David Millman. \
 European Conference on Computational Geometry, 2024.
 
-
 [Catching Polygons](https://arxiv.org/abs/2201.01286) \
 Joint with Bradley McCoy and Eli Quist. \
 Fall Workshop on Computational Geometry, 2021.
 
 
-[A Faithful Discretization of the Augmented Persistent Homology
-Transform](https://arxiv.org/abs/1912.12759) \
-Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
-Under review.
 
 [Challenges in Reconstructing Shapes from Euler Characteristic
 Curves](https://arxiv.org/abs/1811.11337) \
