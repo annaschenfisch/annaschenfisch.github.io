@@ -63,6 +63,9 @@ Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
 Canadian Conference on Computational Geometry, 2022.
 
 ## Preprints or Conference Contributions
+[Counting Triangulations of Fixed Cardinal Degrees](https://arxiv.org/pdf/2510.04870) \
+Joint with Erin Chambers, Tim Ophelders, and Julia Sollberger.
+
 [Sweeping Orders for Simplicial Complex Reconstruction](https://arxiv.org/pdf/2501.01901) \
 Joint with Tim Ophelders. 
 
@@ -77,7 +80,6 @@ European Conference on Computational Geometry, 2024.
 [Catching Polygons](https://arxiv.org/abs/2201.01286) \
 Joint with Bradley McCoy and Eli Quist. \
 Fall Workshop on Computational Geometry, 2021.
-
 
 
 [Challenges in Reconstructing Shapes from Euler Characteristic
