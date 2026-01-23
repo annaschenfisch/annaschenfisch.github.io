@@ -3,6 +3,12 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: false
 ---
+## KTH Royal Institute of Technology
+### SF1684: Algebra and Geometry
+Textbook: Contemporary Linear Algebra - Howard Anton and Robert C. Busby
+
+ * Period 2, 2025 (teaching assistant for exercise sessions and seminars, around 36 students)
+
 ## Eindhoven University of Technology
 ### 2IT80: Introduction to Discrete Structures
 Textbook: Invitation to Discrete Mathematics, 2nd edition - Jiří Matoušek and Jaroslav Nešetřil
