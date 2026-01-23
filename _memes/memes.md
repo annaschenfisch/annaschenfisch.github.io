@@ -1,6 +1,6 @@
 ---
-title: "Memes"
-permalink: /memes/
+title: "Misc."
+permalink: /misc/
 ---
 
 TEST
