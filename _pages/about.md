@@ -12,9 +12,9 @@ of computer science. My main research interest is in directional
 topological transforms, which represent shapes by recording how topological
 invariants change throughout height-based filtrations of the shape. 
 
-Other research interests include the algebraic K-theory of persistence modules,
-verbose topological descriptors, graph theory, and using computational geometry
-in applications to river network extraction.
+Other research interests include verbose topological descriptors, graph theory,
+algebraic K-theory of persistence modules, and collaborating with other
+disciplines to use computational geometry and topology in applications.
 
 When I am not researching, teaching, or learning math, I love to trail run and
 dance.
