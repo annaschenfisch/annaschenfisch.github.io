@@ -54,7 +54,7 @@ Journal of Discrete Mathematics, Volume 341, Issue 2. Pages
 Joint with Tim Ophelders, Willem Sonke, and Bettina Speckmann. \
 Symposium on Computational Geometry, 2025.
 
-[How Small Can Faithful Sets Be? Ordering Topological Descriptors](../../files/ordering_descriptors.pdf)) \
+[How Small Can Faithful Sets Be? Ordering Topological Descriptors](../../files/ordering_topological_descriptors.pdf)) \
 Joint with Brittany Fasy and David Millman. \
 Canadian Conference on Computational Geometry, 2024.
 
