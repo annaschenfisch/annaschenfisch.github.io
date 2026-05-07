@@ -8,7 +8,7 @@ author_profile: false
 ## Journal Publications
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/wedge-3D.png" alt="Paper thumbnail" 
-       style="width: auto; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://link.springer.com/article/10.1007/s00454-025-00791-w">A Faithful Discretization of Verbose Directional Transforms</a><br>
     Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams.<br>
@@ -19,7 +19,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/outerplanar.png" alt="Paper thumbnail"
-       style="width: auto; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="../../files/outerplanar.pdf">Outerplanar Graphs with Positive Lin-Lu-Yau Curvature</a><br>
     Joint with George Brooks, Fadekemi Osaye, Zhiyu Wang, and Jing Yu.<br>
@@ -30,7 +30,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/wedge-3D.pdf" alt="Paper thumbnail" 
-       style="width: auto; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://www.ams.org/journals/bproc/2024-11-06/S2330-1511-2024-00208-7/">$K$-Theory of multiparameter persistence modules:
 Additivity</a><br>
@@ -42,7 +42,7 @@ Joint with Ryan Grady. \
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/split.png" alt="Paper thumbnail"
-       style="width: auto; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0002/a011/index.php">Zig-Zag Modules: Cosheaves and $K$-Theory</a><br>
     Joint with Ryan Grady.<br>
@@ -52,7 +52,7 @@ Joint with Ryan Grady. \
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/regular_critical.png" alt="Paper thumbnail"
-       style="width: auto; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://link.springer.com/article/10.1007/s13366-023-00713-y">Regularity via Links and Stein Factorizations</a><br>
     Joint with Ryan Grady.<br>
@@ -62,7 +62,7 @@ Joint with Ryan Grady. \
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/bow_tie.png" alt="Paper thumbnail"
-       style="width: auto; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://www.sciencedirect.com/science/article/pii/S0925772120300523">Reconstructing Embedded Graphs from Persistence Diagrams</a><br>
     Joint with Robin Lynne Belton, Brittany Terese Fasy, Rostik Mertz, Samuel Micka, David L. Millman, Daniel Salinas, Jordan Schupbach, and Lucia Williams.<br>
@@ -72,7 +72,7 @@ Joint with Ryan Grady. \
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/statistical-thumb.png" alt="Paper thumbnail"
-       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1571848">Statistical Analysis of Contingency Tables (book review)</a><br>
     Joint with Brittany Fasy.<br>
@@ -82,7 +82,7 @@ Joint with Ryan Grady. \
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/turan-thumb.png" alt="Paper thumbnail"
-       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://www.sciencedirect.com/science/article/pii/S0012365X17303266">Turán Numbers of Vertex-Disjoint Cliques in r-Partite Graphs</a><br>
     Joint with Jessica De Silva, Kristin Heysse, Adam Kapilow, and Michael Young.<br>
@@ -91,17 +91,35 @@ Joint with Ryan Grady. \
 </div>
 
 ## Conference Publications 
-[Computing Geomorphologically Salient Networks via Discrete Morse Theory](https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.70/LIPIcs.SoCG.2025.70.pdf) \
-Joint with Tim Ophelders, Willem Sonke, and Bettina Speckmann. \
-Symposium on Computational Geometry, 2025.
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
+  <img src="../../images/geomorphological-thumb.png" alt="Paper thumbnail"
+       style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
+  <div>
+    <a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.70/LIPIcs.SoCG.2025.70.pdf">Computing Geomorphologically Salient Networks via Discrete Morse Theory</a><br>
+    Joint with Tim Ophelders, Willem Sonke, and Bettina Speckmann.<br>
+    <em>Symposium on Computational Geometry</em>, 2025.
+  </div>
+</div>
 
-[How Small Can Faithful Sets Be? Ordering Topological Descriptors](../../files/ordering_topological_descriptors.pdf) \
-Joint with Brittany Fasy and David Millman. \
-Canadian Conference on Computational Geometry, 2024.
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
+  <img src="../../images/ordering-thumb.png" alt="Paper thumbnail"
+       style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
+  <div>
+    <a href="../../files/ordering_topological_descriptors.pdf">How Small Can Faithful Sets Be? Ordering Topological Descriptors</a><br>
+    Joint with Brittany Fasy and David Millman.<br>
+    <em>Canadian Conference on Computational Geometry</em>, 2024.
+  </div>
+</div>
 
-[Efficient Graph Reconstruction and Representation Using Augmented Persistence Diagrams](https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_49.pdf) \
-Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
-Canadian Conference on Computational Geometry, 2022.
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
+  <img src="../../images/augmented-thumb.png" alt="Paper thumbnail"
+       style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
+  <div>
+    <a href="https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_49.pdf">Efficient Graph Reconstruction and Representation Using Augmented Persistence Diagrams</a><br>
+    Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams.<br>
+    <em>Canadian Conference on Computational Geometry</em>, 2022.
+  </div>
+</div>
 
 ## Preprints or Conference Contributions
 [Counting Triangulations of Fixed Cardinal Degrees](https://arxiv.org/pdf/2510.04870) \
