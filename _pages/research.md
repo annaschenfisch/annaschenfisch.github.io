@@ -8,7 +8,7 @@ author_profile: false
 ## Journal Publications
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/wedge-3D.png" alt="Paper thumbnail" 
-       style="width: 100px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: auto; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://link.springer.com/article/10.1007/s00454-025-00791-w">A Faithful Discretization of Verbose Directional Transforms</a><br>
     Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams.<br>
@@ -19,7 +19,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/outerplanar.png" alt="Paper thumbnail"
-       style="width: 100px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: auto; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="../../files/outerplanar.pdf">Outerplanar Graphs with Positive Lin-Lu-Yau Curvature</a><br>
     Joint with George Brooks, Fadekemi Osaye, Zhiyu Wang, and Jing Yu.<br>
@@ -30,7 +30,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/wedge-3D.pdf" alt="Paper thumbnail" 
-       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: auto; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://www.ams.org/journals/bproc/2024-11-06/S2330-1511-2024-00208-7/">$K$-Theory of multiparameter persistence modules:
 Additivity</a><br>
@@ -42,7 +42,7 @@ Joint with Ryan Grady. \
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/split.png" alt="Paper thumbnail"
-       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: auto; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0002/a011/index.php">Zig-Zag Modules: Cosheaves and $K$-Theory</a><br>
     Joint with Ryan Grady.<br>
@@ -51,8 +51,8 @@ Joint with Ryan Grady. \
 </div>
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
-  <img src="../../images/regularity-thumb.png" alt="Paper thumbnail"
-       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+  <img src="../../images/regular_critical.png" alt="Paper thumbnail"
+       style="width: auto; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://link.springer.com/article/10.1007/s13366-023-00713-y">Regularity via Links and Stein Factorizations</a><br>
     Joint with Ryan Grady.<br>
@@ -61,8 +61,8 @@ Joint with Ryan Grady. \
 </div>
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
-  <img src="../../images/reconstructing-thumb.png" alt="Paper thumbnail"
-       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+  <img src="../../images/bow_tie.png" alt="Paper thumbnail"
+       style="width: auto; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://www.sciencedirect.com/science/article/pii/S0925772120300523">Reconstructing Embedded Graphs from Persistence Diagrams</a><br>
     Joint with Robin Lynne Belton, Brittany Terese Fasy, Rostik Mertz, Samuel Micka, David L. Millman, Daniel Salinas, Jordan Schupbach, and Lucia Williams.<br>
