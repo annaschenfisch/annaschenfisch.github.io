@@ -6,6 +6,16 @@ author_profile: false
 ---
 
 ## Journal Publications
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
+  <img src="../../images/catmeme.jpg" alt="Paper thumbnail" 
+       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+  <div>
+    <a href="https://link.springer.com/article/10.1007/s00454-025-00791-w">A Faithful Discretization of Verbose Directional Transforms</a><br>
+    Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams.<br>
+    <em>Discrete and Computational Geometry</em>, Pages 1–46. November 2025.
+  </div>
+</div>
+
 [A Faithful Discretization of Verbose Directional Transforms](https://link.springer.com/article/10.1007/s00454-025-00791-w) \
 Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
 Discrete and Computational Geometry, Pages 1-46. November 2025.
