@@ -72,7 +72,6 @@ Joint with Ryan Grady. \
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <div style="width: 80px; flex-shrink: 0;"></div>
-       style="width: 100px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1571848">Statistical Analysis of Contingency Tables (book review)</a><br>
     Joint with Brittany Fasy.<br>
