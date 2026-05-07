@@ -8,7 +8,7 @@ author_profile: false
 ## Journal Publications
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/wedge-3D.png" alt="Paper thumbnail" 
-       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: 100px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://link.springer.com/article/10.1007/s00454-025-00791-w">A Faithful Discretization of Verbose Directional Transforms</a><br>
     Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams.<br>
@@ -19,7 +19,7 @@ author_profile: false
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/outerplanar.png" alt="Paper thumbnail"
-       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+       style="width: 100px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="../../files/outerplanar.pdf">Outerplanar Graphs with Positive Lin-Lu-Yau Curvature</a><br>
     Joint with George Brooks, Fadekemi Osaye, Zhiyu Wang, and Jing Yu.<br>
@@ -40,34 +40,55 @@ Joint with Ryan Grady. \
   </div>
 </div>
 
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
+  <img src="../../images/split.png" alt="Paper thumbnail"
+       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+  <div>
+    <a href="https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0002/a011/index.php">Zig-Zag Modules: Cosheaves and $K$-Theory</a><br>
+    Joint with Ryan Grady.<br>
+    <em>Homology, Homotopy and Applications</em>. Volume 25, Number 2. Pages 243–274. November 2023.
+  </div>
+</div>
 
-[Zig-Zag Modules: Cosheaves and
-$K$-Theory](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0002/a011/index.php) \
-Joint with Ryan Grady. \
-Homology, Homotopy and Applications. Volume 25, Number 2. Pages 243-274. November 2023.
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
+  <img src="../../images/regularity-thumb.png" alt="Paper thumbnail"
+       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+  <div>
+    <a href="https://link.springer.com/article/10.1007/s13366-023-00713-y">Regularity via Links and Stein Factorizations</a><br>
+    Joint with Ryan Grady.<br>
+    <em>Beiträge zur Algebra und Geometrie / Contributions to Algebra and Geometry</em>. August 2023.
+  </div>
+</div>
 
-[Regularity via Links and Stein Factorizations](https://link.springer.com/article/10.1007/s13366-023-00713-y) \
-Joint with Ryan Grady. \
-Beiträge zur Algebra und Geometrie / Contributions to Algebra and Geometry.
-August 2023.
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
+  <img src="../../images/reconstructing-thumb.png" alt="Paper thumbnail"
+       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+  <div>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0925772120300523">Reconstructing Embedded Graphs from Persistence Diagrams</a><br>
+    Joint with Robin Lynne Belton, Brittany Terese Fasy, Rostik Mertz, Samuel Micka, David L. Millman, Daniel Salinas, Jordan Schupbach, and Lucia Williams.<br>
+    <em>Computational Geometry, Theory and Applications</em>. October 2020.
+  </div>
+</div>
 
-[Reconstructing Embedded Graphs from Persistence Diagrams](https://www.sciencedirect.com/science/article/pii/S0925772120300523) \
-Joint with Robin Lynne Belton, Brittany Terese Fasy, Rostik Mertz, Samuel Micka,
-David L. Millman, Daniel Salinas, Jordan Schupbach, and Lucia
-Williams. \
-Computational Geometry, Theory and Applications. October 2020.
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
+  <img src="../../images/statistical-thumb.png" alt="Paper thumbnail"
+       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+  <div>
+    <a href="https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1571848">Statistical Analysis of Contingency Tables (book review)</a><br>
+    Joint with Brittany Fasy.<br>
+    <em>The American Statistician</em>, Volume 73, Issue 2. Page 634. April 3, 2019.
+  </div>
+</div>
 
-[Statistical Analysis of Contingency
-Tables (book review)](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1571848) \
-Joint with Brittany Fasy. \
-The American Statistician, Volume 73, Issue 2. Page 634. April 3, 2019. 
-
-[Turán Numbers of Vertex-Disjoint Cliques in r-Partite
-Graphs](https://www.sciencedirect.com/science/article/pii/S0012365X17303266) \
-Joint with Jessica De Silva, Kristin Heysse, Adam Kapilow, and
-Michael Young. \
-Journal of Discrete Mathematics, Volume 341, Issue 2. Pages
-492-496. February 2018.
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
+  <img src="../../images/turan-thumb.png" alt="Paper thumbnail"
+       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+  <div>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0012365X17303266">Turán Numbers of Vertex-Disjoint Cliques in r-Partite Graphs</a><br>
+    Joint with Jessica De Silva, Kristin Heysse, Adam Kapilow, and Michael Young.<br>
+    <em>Journal of Discrete Mathematics</em>, Volume 341, Issue 2. Pages 492–496. February 2018.
+  </div>
+</div>
 
 ## Conference Publications 
 [Computing Geomorphologically Salient Networks via Discrete Morse Theory](https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.70/LIPIcs.SoCG.2025.70.pdf) \
