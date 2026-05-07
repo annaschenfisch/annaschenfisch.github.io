@@ -120,7 +120,7 @@ Joint with Ryan Grady. \
 </div>
 
 ## Preprints or Conference Contributions
-[Point Set Transformations using Given Groups](../../files/grouped_motion.pdf)\
+[Point Set Transformations using Given Groups](../../files/Grouped_Motion.pdf)\
 Joint with .Thomas C. van Dijk, Erwin Glazenburg, Wouter Meulemans, and Arjen Simons. 
 European Conference on Computational Geometry, 2026.
 
