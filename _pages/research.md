@@ -29,7 +29,7 @@ author_profile: false
 
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
-  <img src="../../images/wedge-3D.pdf" alt="Paper thumbnail" 
+  <img src="../../images/ktheory_unfolding.pdf" alt="Paper thumbnail" 
        style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://www.ams.org/journals/bproc/2024-11-06/S2330-1511-2024-00208-7/">$K$-Theory of multiparameter persistence modules:
@@ -92,7 +92,7 @@ Joint with Ryan Grady. \
 
 ## Conference Publications 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
-  <img src="../../images/geomorphological-thumb.png" alt="Paper thumbnail"
+  <img src="../../images/morse.png" alt="Paper thumbnail"
        style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol332-socg2025/LIPIcs.SoCG.2025.70/LIPIcs.SoCG.2025.70.pdf">Computing Geomorphologically Salient Networks via Discrete Morse Theory</a><br>
@@ -102,7 +102,7 @@ Joint with Ryan Grady. \
 </div>
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
-  <img src="../../images/ordering-thumb.png" alt="Paper thumbnail"
+  <img src="../../images/clothespins.png" alt="Paper thumbnail"
        style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="../../files/ordering_topological_descriptors.pdf">How Small Can Faithful Sets Be? Ordering Topological Descriptors</a><br>
@@ -112,7 +112,7 @@ Joint with Ryan Grady. \
 </div>
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
-  <img src="../../images/augmented-thumb.png" alt="Paper thumbnail"
+  <img src="../../images/binary_search_graph.png" alt="Paper thumbnail"
        style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://www.torontomu.ca/content/dam/canadian-conference-computational-geometry-2022/papers/CCCG2022_paper_49.pdf">Efficient Graph Reconstruction and Representation Using Augmented Persistence Diagrams</a><br>
