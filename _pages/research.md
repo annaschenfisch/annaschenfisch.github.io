@@ -7,7 +7,7 @@ author_profile: false
 
 ## Journal Publications
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
-  <img src="../../images/wedge-3D.pdf" alt="Paper thumbnail" 
+  <img src="../../images/wedge-3D.png" alt="Paper thumbnail" 
        style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://link.springer.com/article/10.1007/s00454-025-00791-w">A Faithful Discretization of Verbose Directional Transforms</a><br>
@@ -18,7 +18,7 @@ author_profile: false
 
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
-  <img src="../../images/wedge-3D.pdf" alt="Paper thumbnail"
+  <img src="../../images/outerplanar.png" alt="Paper thumbnail"
        style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="../../files/outerplanar.pdf">Outerplanar Graphs with Positive Lin-Lu-Yau Curvature</a><br>
