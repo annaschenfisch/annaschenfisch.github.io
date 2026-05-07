@@ -29,7 +29,7 @@ author_profile: false
 
 
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
-  <img src="../../images/ktheory_unfolding.pdf" alt="Paper thumbnail" 
+  <img src="../../images/ktheory_unfolding.png" alt="Paper thumbnail" 
        style="width: 80px; height: auto; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://www.ams.org/journals/bproc/2024-11-06/S2330-1511-2024-00208-7/">$K$-Theory of multiparameter persistence modules:
