@@ -120,6 +120,14 @@ Joint with Ryan Grady. \
 </div>
 
 ## Preprints or Conference Contributions
+[Point Set Transformations using Given Groups](../../files/grouped_motion.pdf)\
+Joint with .Thomas C. van Dijk, Erwin Glazenburg, Wouter Meulemans, and Arjen Simons. 
+European Conference on Computational Geometry, 2026.
+
+[Which Vertical Graphs are non-VPHT Reconstructible?](https://arxiv.org/pdf/2603.07809)\
+Joint with Jette Gutzeit, Kalani Kistler, and Tim Ophelders.
+European Conference on Computational Geometry, 2026.
+
 [Counting Triangulations of Fixed Cardinal Degrees](https://arxiv.org/pdf/2510.04870) \
 Joint with Erin Chambers, Tim Ophelders, and Julia Sollberger.
 
