@@ -7,7 +7,7 @@ author_profile: false
 
 ## Journal Publications
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
-  <img src="../../images/catmeme.jpg" alt="Paper thumbnail" 
+  <img src="../../images/wedge-3D.pdf" alt="Paper thumbnail" 
        style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
   <div>
     <a href="https://link.springer.com/article/10.1007/s00454-025-00791-w">A Faithful Discretization of Verbose Directional Transforms</a><br>
@@ -16,20 +16,30 @@ author_profile: false
   </div>
 </div>
 
-[A Faithful Discretization of Verbose Directional Transforms](https://link.springer.com/article/10.1007/s00454-025-00791-w) \
-Joint with Brittany Fasy, Samuel Micka, David Millman, and Lucia Williams. \
-Discrete and Computational Geometry, Pages 1-46. November 2025.
 
-[Outerplanar Graphs with Positive Lin-Lu-Yau Curvature](../../files/outerplanar.pdf) \
-Joint with George Brooks, Fadekemi Osaye, Zhiyu Wang, and Jing Yu. \
-Journal of Combinatorics, Volume 16, Number 4. Pages 465-480. September 2025. 
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
+  <img src="../../images/wedge-3D.pdf" alt="Paper thumbnail"
+       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+  <div>
+    <a href="../../files/outerplanar.pdf">Outerplanar Graphs with Positive Lin-Lu-Yau Curvature</a><br>
+    Joint with George Brooks, Fadekemi Osaye, Zhiyu Wang, and Jing Yu.<br>
+    <em>Journal of Combinatorics</em>, Volume 16, Number 4. Pages 465–480. September 2025.
+  </div>
+</div>
 
 
-[$K$-Theory of multiparameter persistence modules:
-Additivity](https://www.ams.org/journals/bproc/2024-11-06/S2330-1511-2024-00208-7/)
-\
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
+  <img src="../../images/wedge-3D.pdf" alt="Paper thumbnail" 
+       style="width: 80px; height: 80px; object-fit: cover; flex-shrink: 0; border-radius: 4px;">
+  <div>
+    <a href="https://www.ams.org/journals/bproc/2024-11-06/S2330-1511-2024-00208-7/">$K$-Theory of multiparameter persistence modules:
+Additivity</a><br>
 Joint with Ryan Grady. \
-Proceedings of the American Mathematical Society, Series B. Volume 11. Pages 63-74. March 2024.
+<br>
+    <em>Proceedings of the American Mathematical Society</em>, Series B. Volume 11. Pages 63-74. March 2024.
+  </div>
+</div>
+
 
 [Zig-Zag Modules: Cosheaves and
 $K$-Theory](https://www.intlpress.com/site/pub/pages/journals/items/hha/content/vols/0025/0002/a011/index.php) \
