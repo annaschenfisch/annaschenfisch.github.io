@@ -8,7 +8,7 @@ author_profile: false
 ## Journal Publications
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/same_degs.png" alt="Paper thumbnail" 
-       style="width: 100px; height: auto; flex-shrink: 0; border-radius: 3px;">
+       style="width: 70px; height: auto; flex-shrink: 0; border-radius: 3px;">
   <div>
     <a href="https://jocg.org/index.php/jocg/article/view/5627">Counting Triangulations of Fixed Cardinal Degrees</a><br>
     Joint with Erin Chambers, Tim Ophelders, and Julia Sollberger.<br>
