@@ -6,8 +6,6 @@ author_profile: false
 ---
 
 ## Journal Publications
-
-[(https://arxiv.org/pdf/2510.04870) \
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/same_degs.png" alt="Paper thumbnail" 
        style="width: 100px; height: auto; flex-shrink: 0; border-radius: 3px;">
