@@ -6,6 +6,18 @@ author_profile: false
 ---
 
 ## Journal Publications
+
+[(https://arxiv.org/pdf/2510.04870) \
+<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
+  <img src="../../images/same_degs.png" alt="Paper thumbnail" 
+       style="width: 100px; height: auto; flex-shrink: 0; border-radius: 3px;">
+  <div>
+    <a href="https://jocg.org/index.php/jocg/article/view/5627">Counting Triangulations with Fixed Cardinal Degrees</a><br>
+    Joint with Erin Chambers, Tim Ophelders, and Julia Sollberger.<br>
+    <em>Journal of and Computational Geometry</em>, Vol. 17 No. 1. June 2026.
+  </div>
+</div>
+
 <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 1.5em;">
   <img src="../../images/wedge-3D.png" alt="Paper thumbnail" 
        style="width: 100px; height: auto; flex-shrink: 0; border-radius: 3px;">
@@ -128,8 +140,6 @@ European Conference on Computational Geometry, 2026.
 Joint with Jette Gutzeit, Kalani Kistler, and Tim Ophelders.
 European Conference on Computational Geometry, 2026.
 
-[Counting Triangulations of Fixed Cardinal Degrees](https://arxiv.org/pdf/2510.04870) \
-Joint with Erin Chambers, Tim Ophelders, and Julia Sollberger.
 
 [Sweeping Orders for Simplicial Complex Reconstruction](https://arxiv.org/pdf/2501.01901) \
 Joint with Tim Ophelders. 
