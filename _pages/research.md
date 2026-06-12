@@ -44,7 +44,7 @@ author_profile: false
   <div>
     <a href="https://www.ams.org/journals/bproc/2024-11-06/S2330-1511-2024-00208-7/">$K$-Theory of multiparameter persistence modules:
 Additivity</a><br>
-Joint with Ryan Grady. \
+Joint with Ryan Grady.
 <br>
     <em>Proceedings of the American Mathematical Society</em>, Series B. Volume 11. Pages 63-74. March 2024.
   </div>
