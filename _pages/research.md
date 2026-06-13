@@ -12,7 +12,7 @@ author_profile: false
   <div>
     <a href="https://jocg.org/index.php/jocg/article/view/5627">Counting Triangulations of Fixed Cardinal Degrees</a><br>
     Joint with Erin Chambers, Tim Ophelders, and Julia Sollberger.<br>
-    <em>Journal of and Computational Geometry</em>, Vol. 17 No. 1. June 2026.
+    <em>Journal of Computational Geometry</em>, Vol. 17 No. 1. June 2026.
   </div>
 </div>
 
