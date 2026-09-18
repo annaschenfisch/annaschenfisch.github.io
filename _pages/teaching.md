@@ -4,6 +4,11 @@ permalink: /teaching/
 author_profile: false
 ---
 ## KTH Royal Institute of Technology
+### SF2956: Topological Data Analysis 
+Master's course
+
+ * Period 1, 2026 (teaching assistant for exercise sessions, around 37 students enrolled)
+
 ### SF1684: Algebra and Geometry
 Textbook: Contemporary Linear Algebra - Howard Anton and Robert C. Busby
 
